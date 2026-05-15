@@ -2,23 +2,22 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Assoc. Prof. Melike Eger-Aydogmus
-  given: Melike
-  family: Eger-Aydogmus
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: "Assoc. Prof. Melike Eger-Aydogmus"
+  given: "Melike"
+  family: "Eger-Aydogmus"
+  alternate: ''
+  pronunciation: ''
+  pronouns: "she/her"
 postnominals:
   - PhD
-  - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: "Associate Professor of Social Psychology"
 bio: |
-Dr. Melike Eğer Aydoğmuş is an Associate Professor of Social Psychology at Hacettepe University. Her research on self-compassion, perfectionism, and stigma has been published in leading peer-reviewed journals, utilizing advanced quantitative methodologies. Melike is passionate about bridging cultural and universal approaches to deepen our understanding of psychological well-being and societal attitudes.
+  Dr. Melike Eğer Aydoğmuş is an Associate Professor of Social Psychology at Hacettepe University. Her research on self-compassion, perfectionism, and stigma has been published in leading peer-reviewed journals, utilizing advanced quantitative methodologies. Melike is passionate about bridging cultural and universal approaches to deepen our understanding of psychological well-being and societal attitudes.
 
 affiliations:
-  - name: Hacettepe University Department of Psychology
+  - name: "Hacettepe University Department of Psychology"
     url: https://psikoloji.hacettepe.edu.tr/en
 
 links:
@@ -33,79 +32,56 @@ links:
     url: https://orcid.org/0000-0003-4455-6863
 
 interests:
-  - Prejudice, Stereotypes, Discrimination
-  - Self-Compassion
-  - Perfectionism
-  - Self-Determination Theory
-  - Teaching and Learning Psychology
-  - Emotion Processing
+  - "Prejudice, Stereotypes, Discrimination"
+  - "Self-Compassion"
+  - "Perfectionism"
+  - "Self-Determination Theory"
+  - "Teaching and Learning Psychology"
+  - "Emotion Processing"
   
 education:
-  - degree: PhD Social Psychology
-    institution: The University of Alabama-Tuscaloosa
+  - degree: "PhD Social Psychology"
+    institution: "The University of Alabama-Tuscaloosa"
     start: 2010-08-15
     end: 2015-08-15
-    summary: |
-      Thesis on Ego depletion as a measure of emotion processing deficits among MUS patients.
+    summary: "Thesis on Ego depletion as a measure of emotion processing deficits among MUS patients."
     button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Social Psychology
-    institution: The University of Alabama-Tuscaloosa
+      text: "Download dissertation"
+      url: "/resume.pdf"
+      icon: "hero/arrow-down-tray"
+  - degree: "MS Social Psychology"
+    institution: "The University of Alabama-Tuscaloosa"
     start: 2010-08-15
     end: 2013-06-15
-  - degree: BS Psychology
-    institution: Bogazici University
+  - degree: "BS Psychology"
+    institution: "Bogazici University"
     start: 2001-09-01
     end: 2006-06-15
 
 experience:
-  - role: Faculty Member
-    org: Hacettepe Psychology
+  - role: "Faculty Member"
+    org: "Hacettepe Psychology"
     start: 2015-10-05
-    summary: |
-      
-    button:
-      text: 
-      url: /
-      icon: 
-  - role: Teaching Asistant
-    org: The University of Alabama-Tuscaloosa
+    summary: ""
+  - role: "Teaching Assistant"
+    org: "The University of Alabama-Tuscaloosa"
     start: 2010-08-15
     end: 2015-08-15
-    summary: |
-      
+    summary: ""
 
 skills:
-  - name: Technical Skills
+  - name: "Technical Skills"
     items:
-      - label: SPSS
-        level: 
-      - label: Structural Equational Modeling
-        level: 
-      - label: 
-        level: 
-  - name: Research 
+      - label: "SPSS"
+      - label: "Structural Equation Modeling"
+  - name: "Research"
     items:
-      - label: Data Analysis
-        level: 
-      - label: Literature Review
-        level: 
-      - label: Idea Development and Research Design
-        level: 
+      - label: "Data Analysis"
+      - label: "Literature Review"
+      - label: "Idea Development and Research Design"
 
 languages:
-  - name: English
+  - name: "English"
     level: 5
-    label: 
-  - name: French
+  - name: "French"
     level: 2
-    label: 
-
-awards:
-  - title: 
-    awarder: 
-    date: 
-    summary: 
-    icon: 
