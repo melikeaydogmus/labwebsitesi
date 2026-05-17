@@ -31,6 +31,9 @@ links:
     url: https://scholar.google.com/citations?user=WSo8Nk0AAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-4455-6863
+  - icon: hero/document-text
+    url: "https://drive.google.com/file/d/1ItDcwGFVM3enVLjq29NCMfMhDdJBz-JZ/view?usp=sharing"
+    label: Download CV
 
 interests:
   - "Prejudice, Stereotypes, Discrimination"
@@ -47,10 +50,6 @@ education:
     start: 2010-08-15
     end: 2015-08-15
     summary: "Thesis on Ego depletion as a measure of emotion processing deficits among MUS patients."
-    button:
-      text: "Download CV"
-      url: "https://drive.google.com/file/d/1ItDcwGFVM3enVLjq29NCMfMhDdJBz-JZ/view?usp=sharing"
-      icon: "hero/arrow-down-tray"
   - degree: "MS Social Psychology"
     institution: "The University of Alabama-Tuscaloosa"
     start: 2010-08-15
