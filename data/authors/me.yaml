@@ -48,7 +48,7 @@ education:
     summary: "Thesis on Ego depletion as a measure of emotion processing deficits among MUS patients."
     button:
       text: "Download CV"
-      url: "https://melikeaydogmus.github.io/labwebsitesi/resume.pdf"
+      url: "resume.pdf"
       icon: "hero/arrow-down-tray"
   - degree: "MS Social Psychology"
     institution: "The University of Alabama-Tuscaloosa"
