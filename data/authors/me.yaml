@@ -12,7 +12,7 @@ name:
 postnominals:
   - PhD
 status:
-  icon: "☕️"
+  icon: ""
 role: "Associate Professor of Social Psychology"
 bio: |
   Dr. Melike Eğer Aydoğmuş is an Associate Professor of Social Psychology at Hacettepe University. Her research on stigma, emotion processes, self-compassion, and perfectionism has been published in leading peer-reviewed journals, utilizing advanced quantitative methodologies. Melike is passionate about bridging cultural and universal approaches to deepen our understanding of psychological well-being and societal attitudes.
@@ -70,6 +70,12 @@ experience:
     end: 2015-08-15
     summary: ""
 
+awards:
+  - title: "YLSY Graduate Study Abroad Scholarship (MS & PhD)"
+    awarder: "Republic of Türkiye Ministry of National Education (MEB)"
+    date: "2010-08-15"
+    summary: "Highly competitive national scholarship awarded to pursue graduate studies in Social Psychology in the United States."
+    
 skills:
   - name: "Technical Skills"
     items:
