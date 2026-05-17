@@ -70,12 +70,6 @@ experience:
     end: 2015-08-15
     summary: ""
 
-awards:
-  - title: "YLSY Graduate Study Abroad Scholarship (MS & PhD)"
-    awarder: "Republic of Türkiye Ministry of National Education (MEB)"
-    date: "2010-08-15"
-    summary: "Highly competitive national scholarship awarded to pursue graduate studies in Social Psychology in the United States."
-    
 skills:
   - name: "Technical Skills"
     items:
@@ -92,3 +86,10 @@ languages:
     level: 5
   - name: "French"
     level: 2
+
+awards:
+  - title: "YLSY Graduate Study Abroad Scholarship (MS & PhD)"
+    awarder: "Republic of Türkiye Ministry of National Education (MEB)"
+    date: "2010-08-15"
+    summary: "Highly competitive national scholarship awarded to pursue graduate studies in Social Psychology in the United States."
+    
