@@ -1,7 +1,7 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
-avatar_filename: me.jpg
+avatar_filename: avatar.jpg
 name:
   display: "Assoc. Prof. Melike Eger-Aydogmus"
   given: "Melike"
