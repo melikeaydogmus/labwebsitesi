@@ -49,10 +49,10 @@ sections:
       filters:
         folders:
           - publications
-        featured_only: true
+        featured_only: false
     design:
       view: article-grid
-      columns: 2
+      columns: 20
   - block: collection
     content:
       title: Recent Publications
