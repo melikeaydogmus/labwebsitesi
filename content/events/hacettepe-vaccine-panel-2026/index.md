@@ -1,5 +1,5 @@
 ---
-title: "Hepimiz İçin Aşı: Küçük Bir Adım, Büyük Bir Koruma"
+title: "Vaccine for All: A Small Step, A Big Protection - Hepimiz İçin Aşı: Küçük Bir Adım, Büyük Bir Koruma"
 event: "Hacettepe Üniversitesi Aşı Enstitüsü Paneli"
 event_url: ""
 location: "Hacettepe Üniversitesi, Ankara"
