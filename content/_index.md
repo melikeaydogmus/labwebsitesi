@@ -29,9 +29,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Welcome to my academic portal. As a Social Psychologist, my research primarily focuses on self-compassion, perfectionism, emotion processing, and the dynamics of social stigma. 
+        Welcome to my academic portal. As a Social and Health Psychologist, my research primarily focuses on the dynamics of stigma, psychological needs and motivation, self-compassion, perfectionism, and emotion processing.
 
-        Utilizing advanced quantitative methodologies, I aim to bridge cultural and universal approaches to deepen our understanding of psychological well-being and societal attitudes. Please feel free to explore my publications and ongoing projects.
+        Utilizing advanced quantitative methodologies and mixed research methods, I aim to bridge cultural and universal approaches to deepen our understanding of psychological well-being and societal attitudes. Please feel free to explore my publications and ongoing projects.
     design:
       columns: '1'
 
