@@ -6,7 +6,7 @@ tags:
   - Stigma
   - Mixed Methods
   - Experimental Psychology
-date: "12.02.2026"
+date: "2026-02-12"
 featured: true
 ---
 
@@ -20,7 +20,7 @@ featured: true
 
 ### 👥 Project Team / Proje Ekibi
 
-* **Researchers / Araştırmacılar:** * Asst. Prof. Dr. Hüseyin Nergiz (Hacettepe University) / Dr. Öğr. Üyesi Hüseyin Nergiz
+* **Researchers / Araştırmacılar:** Asst. Prof. Dr. Hüseyin Nergiz (Hacettepe University) / Dr. Öğr. Üyesi Hüseyin Nergiz
 * **Student Researchers / Öğrenci Araştırmacılar:**
   * Şebnem Ünal
   * Abdulkerim Altuğ Koç
