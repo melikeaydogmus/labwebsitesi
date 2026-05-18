@@ -1,5 +1,5 @@
 ---
-title: "İçselleştirilmiş Damgalama Semineri"
+title: "Internalized Stigma Seminar - İçselleştirilmiş Damgalama Semineri"
 event: "Ankara Denetimli Serbestlik Müdürlüğü"
 event_url: ""
 location: "Ankara Denetimli Serbestlik Müdürlüğü, Ankara"
