@@ -53,7 +53,11 @@ education:
   - degree: "MS Social Psychology"
     institution: "The University of Alabama-Tuscaloosa"
     start: 2010-08-15
-    end: 2013-06-15
+    end: 2013-06-15 
+  - degree: "MS General Psychology"
+    institution: "Boston University"
+    start: 2008-08-15
+    end: 2010-06-15
   - degree: "BS Psychology"
     institution: "Bogazici University"
     start: 2001-09-01
