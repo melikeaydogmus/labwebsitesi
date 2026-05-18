@@ -22,7 +22,7 @@ featured: true
 
 ---
 
-### 📝 Özet / Abstract
+### 📝 Abstract - Özet
 
 Prejudice refers to the exposure of an individual or a group to negative attitudes due to specific characteristics. Internalized stigma occurs when these negative attitudes are adopted by individuals and groups, leading them to feel worthless. An ex-convict is an individual who has completed their sentence and has been released from a correctional institution. Ex-convicts are often perceived as prone to criminal behavior and encounter discrimination primarily during job interviews; consequently, unemployed ex-convicts may revert to criminal behavior. The primary objective of this study is to identify potential factors that influence hiring decisions regarding ex-convicts. Utilizing a mixed-methods approach, the study will collect both quantitative data through experimental methods and qualitative data. The findings are expected to guide the formulation of policies and regulations regarding the employment of ex-convicts.
 
