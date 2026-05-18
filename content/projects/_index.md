@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Araştırma Projeleri / Research Projects
+      title: Research Projects - Araştırma Projeleri
       text: Current and completed research projects conducted and contributed to in the field of social and health psychology - Sosyal ve sağlık psikolojisi alanında yürüttüğüm, katkı sağladığım güncel ve tamamlanmış araştırma projeleri.
       filters:
         folders:
