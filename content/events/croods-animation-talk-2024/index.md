@@ -1,5 +1,5 @@
 ---
-title: "Croods Animasyonu Öz Belirleme Kuramı Hakkında Bize Ne Söylüyor?"
+title: "What Does 'The Croods' Animation Tell Us About Self-Determination Theory? - Croods Animasyonu Öz Belirleme Kuramı Hakkında Bize Ne Söylüyor?"
 event: "Ankara Üniversitesi Psikoloji Topluluğu (AÜPOT) Klinik-Sosyal Psikoloji Günleri"
 event_url: ""
 location: "Ankara Üniversitesi, Ankara"
