@@ -1,5 +1,5 @@
 ---
-title: "Radyo Bilkent 'Çift Kişilik' Programı: Yaş Ayrımcılığı"
+title: "Radio Bilkent 'Çift Kişilik': Ageism - Radyo Bilkent 'Çift Kişilik' Programı: Yaş Ayrımcılığı"
 event: "Radyo Bilkent"
 event_url: ""
 location: "Radyo Bilkent Stüdyoları, Ankara"
