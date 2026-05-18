@@ -1,5 +1,5 @@
 ---
-title: "Farkındalık, Fayda ve Psikolojik Sağlamlık: Gönüllülük Sürecinde İçsel Motivasyon ve Psikolojik İhtiyaçlar"
+title: "Awareness, Service, and Psychological Resilience - Farkındalık, Fayda ve Psikolojik Sağlamlık"
 event: "LÖSEV Fakülte Yönetmenliği Programı FAYDA Projesi"
 event_url: ""
 location: "Çevrim içi (Online Seminerler)"
