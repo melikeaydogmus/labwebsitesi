@@ -1,5 +1,5 @@
 ---
-title: "Artık Görünmez Değil: Yaş Ayrımcılığı ile Yüzleşmek"
+title: "No Longer Invisible: Confronting Ageism - Artık Görünmez Değil: Yaş Ayrımcılığı ile Yüzleşmek"
 event: "Bilkent Üniversitesi Psikoloji Günleri"
 event_url: ""
 location: "Bilkent Üniversitesi, Ankara"
