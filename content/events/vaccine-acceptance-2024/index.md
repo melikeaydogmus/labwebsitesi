@@ -1,5 +1,5 @@
 ---
-title: "Aşı Kabulü, Aşı İletişimi"
+title: "Vaccine Acceptance, Vaccine Communication - Aşı Kabulü, Aşı İletişimi"
 event: "Tüm Paydaşları ile Aşı Kabulü ve İmmünizasyon, Mezuniyet Sonrası Eğitim Kursu"
 event_url: ""
 location: "The Ankara Hotel, Ankara"
