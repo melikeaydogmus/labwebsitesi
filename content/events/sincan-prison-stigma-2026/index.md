@@ -4,7 +4,7 @@ event: "Sincan Açık Ceza İnfaz Kurumu Daveti"
 event_url: ""
 location: "Sincan Açık Ceza İnfaz Kurumu, Ankara"
 summary: "Hükümlü bireylerle '(İçselleştirilmiş) Damgalama' üzerine gerçekleştirilen akademik söyleşi."
-date: "2026-05-01"
+date: "2025-01-02"
 all_day: true
 authors:
   - admin
