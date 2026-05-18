@@ -1,5 +1,5 @@
 ---
-title: "Mükemmeliyetçilik ve Öz Şefkat"
+title: "Perfectionism and Self-Compassion - Mükemmeliyetçilik ve Öz Şefkat"
 event: "Hacettepe Üniversitesi Aşı Enstitüsü Seminerleri"
 event_url: ""
 location: "Hacettepe Üniversitesi Aşı Enstitüsü, Ankara"
