@@ -1,5 +1,5 @@
 ---
-title: "Sincan Açık Ceza İnfaz Kurumu Söyleşileri: (İçselleştirilmiş) Damgalama"
+title: "Sincan Open Prison Talks: (Internalized) Stigma - Sincan Açık Ceza İnfaz Kurumu Söyleşileri: (İçselleştirilmiş) Damgalama"
 event: "Sincan Açık Ceza İnfaz Kurumu Daveti"
 event_url: ""
 location: "Sincan Açık Ceza İnfaz Kurumu, Ankara"
