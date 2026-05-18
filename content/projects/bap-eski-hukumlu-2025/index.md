@@ -14,11 +14,11 @@ featured: true
 
 ### 📋 Project Details - Proje Künyesi
 
-* **Project Type - Proje Türü:** Hızlı Destek Projesi (Hacettepe Üniversitesi BAP)
-* **Research Group - Proje Grubu:** Sosyal Bilimler / Social Sciences
+* **Project Type - Proje Türü:** Fast Support Project (Hacettepe University BAP) - Hızlı Destek Projesi (Hacettepe Üniversitesi BAP)
+* **Research Group - Proje Grubu:** Social Sciences - Sosyal Bilimler
 * **Start Date - Başlangıç Tarihi:** 12.02.2026
-* **Duration - Proje Süresi:** 12 Ay / 12 Months
-* **Role - Rol:** Proje Yürütücüsü / Principal Investigator
+* **Duration - Proje Süresi:** 12 Months - 12 Ay
+* **Role - Rol:** Principal Investigator - Proje Yürütücüsü
 
 ---
 
