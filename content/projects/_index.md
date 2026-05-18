@@ -1,14 +1,14 @@
 ---
 title: 'Projects'
-date: 2024-05-19
+date: 2026-05-18
 type: landing
 
 # Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Araştırma Projeleri / Research Projects
+      text: Current and completed research projects conducted and contributed to in the field of social and health psychology - Sosyal ve sağlık psikolojisi alanında yürüttüğüm, katkı sağladığım güncel ve tamamlanmış araştırma projeleri.
       filters:
         folders:
           - projects
