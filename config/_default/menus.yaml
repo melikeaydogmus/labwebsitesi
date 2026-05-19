@@ -5,30 +5,26 @@
 
  # Sitenizin üst menü yapılandırması
 main:
-  - name: "About / Hakkımda"
-    url: "#about"
+  - name: About / Hakkımda
+    url: /
     weight: 10
-    
-  - name: "Publications / Yayınlar"
-    url: "#publications"
+  - name: Publications / Yayınlar
+    url: /#papers
+    weight: 15
+  - name: Talks / Etkinlikler
+    url: /#talks
     weight: 20
-
-  - name: "Talks / Etkinlikler"
-    url: "#talks"
+  - name: News / Haberler
+    url: /#news
+    weight: 25
+  - name: Experience / Deneyim
+    url: experience/
     weight: 30
-
-  - name: "News / Haberler"
-    url: "#news"
+  - name: Projects / Projeler
+    url: projects/
+    weight: 35
+  - name: Courses / Dersler
+    url: courses/
     weight: 40
 
-  - name: "Experience / Deneyim"
-    url: "#experience"
-    weight: 50
 
-  - name: "Projects / Projeler"
-    url: "#projects"
-    weight: 60
-
-  - name: "Courses / Dersler"
-    url: "#courses"
-    weight: 70
