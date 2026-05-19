@@ -14,7 +14,7 @@ main:
   - name: Talks / Etkinlikler
     url: /#talks
     weight: 20
-  - name: News / Haberler
+  - name: SOHE Life / Lab Çalışmaları
     url: /#news
     weight: 25
   - name: Experience / Deneyim
