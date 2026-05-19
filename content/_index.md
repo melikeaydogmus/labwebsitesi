@@ -73,7 +73,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: SOHE Life / Labdan Kareler
       subtitle: ''
       text: ''
       page_type: blog
@@ -93,3 +93,4 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 ---
+    
