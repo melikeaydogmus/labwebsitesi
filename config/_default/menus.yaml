@@ -3,13 +3,12 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
-main:
  # Sitenizin üst menü yapılandırması
 main:
   - name: "About / Hakkımda"
     url: "#about"
     weight: 10
-
+    
   - name: "Publications / Yayınlar"
     url: "#publications"
     weight: 20
