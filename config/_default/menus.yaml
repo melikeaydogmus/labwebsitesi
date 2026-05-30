@@ -5,7 +5,7 @@
 
  # Sitenizin üst menü yapılandırması
 main:
-  - name: About / Hakkımda
+  - name: "Director / Direktör"
     url: /
     weight: 10
   - name: Publications / Yayınlar
@@ -26,5 +26,4 @@ main:
   - name: "Join Us / Bize Katılın"
     url: "#join"
     weight: 28
-
 
