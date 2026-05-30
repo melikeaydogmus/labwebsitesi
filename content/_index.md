@@ -76,19 +76,26 @@ sections:
       view: article-grid
       columns: '2'
 
-  # 5. BÖLÜM: Projects / Projeler (Güncel Yayınlar Yerine Yerleşti)
-  - block: collection
+    # 5. BÖLÜM: Projects / Projeler (Ziyaretçiyi yönlendiren kurumsal butonlu alan)
+  - block: markdown
     id: projects
     content:
-      title: Projects / Projeler ve Araştırmalar
-      text: 'Ongoing and completed research projects at SOHE LAB.'
-      count: 0
-      filters:
-        folders:
-          - project
+      title: '🔬 Projects / Projeler ve Araştırmalar'
+      subtitle: 'Ongoing and completed research projects at SOHE LAB'
+      text: |-
+        At **SOHE LAB**, we manage national and international research projects utilizing advanced psychological methodologies, tracking psychological health, stigma, and self-compassion constructs. 
+
+        To explore our active grants, cross-cultural studies, and completed research pipelines, please visit our dedicated projects portal.
+
+        ---
+
+        **SOHE LAB** bünyesinde, ileri psikoloji metodolojilerini kullanarak damgalama, psikolojik ihtiyaçlar ve öz-şefkat gibi temaları inceleyen ulusal ve uluslararası projeler yürütmekteyiz. Aktif fonlarımızı, kültürlerarası çalışmalarımızı ve tamamlanan araştırma projelerimizi incelemek için lütfen projeler portalımızı ziyaret edin.
+
+        <br>
+
+        <a href="projects/" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">Explore Projects / Projeleri İncele ➡️</a>
     design:
-      view: card
-      columns: '2'
+      columns: '1'
 
   # 6. BÖLÜM: SOHE Life / Labdan Kareler (Galeri)
   - block: collection
