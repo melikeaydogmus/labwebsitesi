@@ -6,31 +6,16 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # 1. BÖLÜM: Fotoğrafları Yan Yana ve Eşit Boyutta Küçülten Standart Galeri Bloğu
-  - block: gallery
-    id: lab-gallery
-    content:
-      title: '🔬 SOHE LAB'
-      subtitle: 'Social & Health Psychology Lab'
-      # Standart şablon yapısına uygun olarak 'images' olarak düzeltildi
-      images:
-        - src: lab-1.jpeg
-          alt: SOHE LAB Team
-          caption: ''
-        - src: lab-2.jpeg
-          alt: SOHE LAB Research
-          caption: ''
-    design:
-      columns: '2'
-
-  # 2. BÖLÜM: İki Kolonlu İngilizce-Türkçe Tanıtım Metni (Fotoğrafların Hemen Altında Başlar)
+  # 1. BÖLÜM: SOHE LAB Giriş, İki Fotoğraf ve İki Kolonlu Metin Düzeni
   - block: markdown
     id: sohelab
     content:
-      title: ''
+      title: '🔬 SOHE LAB / Social & Health Psychology Lab'
       subtitle: ''
       text: |-
-        <table style="width:100%; border:none; border-collapse:collapse; margin-top:10px;">
+        ![SOHE LAB Team](lab-1.jpeg) ![SOHE LAB Research](lab-2.jpeg)
+
+        <table style="width:100%; border:none; border-collapse:collapse; margin-top:20px;">
           <tr>
             <td style="width:50%; padding-right:25px; vertical-align:top; border:none; line-height:1.6;">
               Welcome to the official portal of **SOHE LAB**. Directed by Assoc. Prof. Dr. Melike Eğer Aydoğmuş at Hacettepe University, our laboratory investigates the psychological mechanisms underlying human behavior, social attitudes, and well-being.
@@ -47,7 +32,7 @@ sections:
     design:
       columns: '1'
     
-  # 3. BÖLÜM: Director / Direktör Profil Alanı
+  # 2. BÖLÜM: Director / Direktör Profil Alanı
   - block: resume-biography-3
     id: about
     content:
@@ -67,7 +52,7 @@ sections:
         size: medium
         shape: circle
 
-  # 4. BÖLÜM: Our Team / Ekibimiz
+  # 3. BÖLÜM: Our Team / Ekibimiz
   - block: markdown
     id: team
     content:
@@ -88,7 +73,7 @@ sections:
     design:
       columns: '1'
 
-  # 5. BÖLÜM: Publications / Öne Çıkan Yayınlar
+  # 4. BÖLÜM: Publications / Öne Çıkan Yayınlar
   - block: collection
     id: papers
     content:
@@ -102,7 +87,7 @@ sections:
       view: article-grid
       columns: '2'
 
-  # 6. BÖLÜM: Projects / Projeler (Ziyaretçiyi yönlendiren kurumsal butonlu alan)
+  # 5. BÖLÜM: Projects / Projeler (Ziyaretçiyi yönlendiren kurumsal butonlu alan)
   - block: markdown
     id: projects
     content:
@@ -123,7 +108,7 @@ sections:
     design:
       columns: '1'
 
-  # 7. BÖLÜM: SOHE Life / Labdan Kareler (Galeri)
+  # 6. BÖLÜM: SOHE Life / Labdan Kareler (Galeri)
   - block: collection
     id: news
     content:
@@ -145,7 +130,7 @@ sections:
     design:
       view: card
 
-  # 8. BÖLÜM: Talks / Etkinlikler ve Konuşmalar
+  # 7. BÖLÜM: Talks / Etkinlikler ve Konuşmalar
   - block: collection
     id: talks
     content:
@@ -156,7 +141,7 @@ sections:
     design:
       view: card
 
-  # 9. BÖLÜM: Join Us / Bize Katılın
+  # 8. BÖLÜM: Join Us / Bize Katılın
   - block: markdown
     id: join
     content:
