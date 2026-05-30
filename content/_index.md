@@ -13,7 +13,7 @@ sections:
       title: '🔬 SOHE LAB / Social & Health Psychology Lab'
       subtitle: ''
       text: |-
-        ![SOHE LAB Team](lab-1.jpeg#thumbnail) ![SOHE LAB Research](lab-2.jpeg#thumbnail)
+        ![SOHE LAB Team](lab-1.jpeg) ![SOHE LAB Research](lab-2.jpeg)
 
         <table style="width:100%; border:none; border-collapse:collapse; margin-top:20px;">
           <tr>
