@@ -6,24 +6,33 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # 1. BÖLÜM: SOHE LAB Giriş ve Vizyon Yazısı 
+  # 1. BÖLÜM: SOHE LAB Giriş ve Vizyon Yazısı (İki Kolonlu HTML Düzeni)
   - block: markdown
+    id: sohelab
     content:
       title: '🔬 SOHE LAB / Social & Health Psychology Lab'
       subtitle: ''
       text: |-
-        Welcome to the official portal of **SOHE LAB**. Directed by Assoc. Prof. Dr. Melike Eğer Aydoğmuş at Hacettepe University, our laboratory investigates the psychological mechanisms underlying human behavior, social attitudes, and well-being. 
-
-        Our primary research lines focus on the dynamics of **stigma, perfectionism, self-compassion, self-determination theory (psychological needs and motivation), and emotion processing**. Utilizing advanced quantitative methodologies, path analyses, structural equation modeling (SEM), and mixed-methods research designs, SOHE LAB aims to bridge universal psychological constructs with profound cultural dynamics. We strive to generate scientific evidence that informs public health, shapes educational interventions, and guides policy-making for vulnerable groups.
-
-        ---
-
-        **SOHE LAB Araştırma Dünyasına Hoş Geldiniz.** Hacettepe Üniversitesi bünyesinde Doç. Dr. Melike Eğer Aydoğmuş direktörlüğünde faaliyet gösteren laboratuvarımızda; insan davranışının, sosyal tutumların ve psikolojik iyi oluşun arkasındaki mekanizmaları inceliyoruz. Temel araştırma alanlarımız arasında **damgalama (stigma), mükemmeliyetçilik, öz-şefkat, öz-belirleme kuramı (psikolojik ihtiyaçlar ve motivasyon) ve duygu işleme süreçleri** yer almaktadır. İleri kantitatif yöntemler, yol analizi, yapısal eşitlik modellemesi (SEM) ve karma yöntemli desenler kullanan SOHE LAB, evrensel psikoloji yaklaşımlarını kültürel dinamiklerle harmanlamayı ve toplumsal refaha katkı sunacak bilimsel çıktılar üretmeyi amaçlar.
+        <table style="width:100%; border:none; border-collapse:collapse; margin-top:10px;">
+          <tr>
+            <td style="width:50%; padding-right:25px; vertical-align:top; border:none; line-height:1.6;">
+              Welcome to the official portal of **SOHE LAB**. Directed by Assoc. Prof. Dr. Melike Eğer Aydoğmuş at Hacettepe University, our laboratory investigates the psychological mechanisms underlying human behavior, social attitudes, and well-being.
+              <br><br>
+              Our primary research lines focus on the dynamics of **stigma, perfectionism, self-compassion, self-determination theory (psychological needs and motivation), and emotion processing**. Utilizing advanced quantitative methodologies, path analyses, structural equation modeling (SEM), and mixed-methods research designs, SOHE LAB aims to bridge universal psychological constructs with profound cultural dynamics. We strive to generate scientific evidence that informs public health, shapes educational interventions, and guides policy-making for vulnerable groups.
+            </td>
+            <td style="width:50%; padding-left:25px; vertical-align:top; border-left:1px solid #e3e3e3; border-top:none; border-right:none; border-bottom:none; line-height:1.6;">
+              **SOHE LAB Araştırma Dünyasına Hoş Geldiniz.** Hacettepe Üniversitesi bünyesinde Doç. Dr. Melike Eğer Aydoğmuş direktörlüğünde faaliyet gösteren laboratuvarımızda; insan davranışının, sosyal tutumların ve psikolojik iyi oluşun arkasındaki mekanizmaları inceliyoruz.
+              <br><br>
+              Temel araştırma alanlarımız arasında **damgalama (stigma), mükemmeliyetçilik, öz-şefkat, öz-belirleme kuramı (psikolojik ihtiyaçlar ve motivasyon) ve duygu işleme süreçleri** yer almaktadır. İleri kantitatif yöntemler, yol analizi, yapısal eşitlik modellemesi (SEM) ve karma yöntemli desenler kullanan SOHE LAB, evrensel psikoloji yaklaşımlarını kültürel dinamiklerle harmanlamayı ve toplumsal refaha katkı sunacak bilimsel çıktılar üretmeyi amaçlar.
+            </td>
+          </tr>
+        </table>
     design:
       columns: '1'
     
   # 2. BÖLÜM: Director / Direktör Profil Alanı
   - block: resume-biography-3
+    id: about
     content:
       username: me
       text: ''
@@ -76,7 +85,7 @@ sections:
       view: article-grid
       columns: '2'
 
-    # 5. BÖLÜM: Projects / Projeler (Ziyaretçiyi yönlendiren kurumsal butonlu alan)
+  # 5. BÖLÜM: Projects / Projeler (Ziyaretçiyi yönlendiren kurumsal butonlu alan)
   - block: markdown
     id: projects
     content:
@@ -130,7 +139,7 @@ sections:
     design:
       view: card
 
-  # 8. BÖLÜM: Join Us / Bize Katılın (Hizalaması ve Kapanışı Düzeltildi)
+  # 8. BÖLÜM: Join Us / Bize Katılın
   - block: markdown
     id: join
     content:
