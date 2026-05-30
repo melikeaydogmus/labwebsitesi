@@ -23,5 +23,8 @@ main:
   - name: "Our Team / Ekibimiz"
     url: "#team"
     weight: 25
+  - name: "Join Us / Bize Katılın"
+    url: "#join"
+    weight: 28
 
 
