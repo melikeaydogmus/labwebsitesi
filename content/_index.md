@@ -6,7 +6,23 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # 1. BÖLÜM: Director / Direktör Profil Alanı
+  # 1. BÖLÜM: SOHE LAB Giriş ve Vizyon Yazısı 
+  - block: markdown
+    content:
+      title: '🔬 SOHE LAB / Social & Health Psychology Lab'
+      subtitle: ''
+      text: |-
+        Welcome to the official portal of **SOHE LAB**. Directed by Assoc. Prof. Dr. Melike Eğer Aydoğmuş at Hacettepe University, our laboratory investigates the psychological mechanisms underlying human behavior, social attitudes, and well-being. 
+
+        Our primary research lines focus on the dynamics of **stigma, perfectionism, self-compassion, self-determination theory (psychological needs and motivation), and emotion processing**. Utilizing advanced quantitative methodologies, path analyses, structural equation modeling (SEM), and mixed-methods research designs, SOHE LAB aims to bridge universal psychological constructs with profound cultural dynamics. We strive to generate scientific evidence that informs public health, shapes educational interventions, and guides policy-making for vulnerable groups.
+
+        ---
+
+        **SOHE LAB Araştırma Dünyasına Hoş Geldiniz.** Hacettepe Üniversitesi bünyesinde Doç. Dr. Melike Eğer Aydoğmuş direktörlüğünde faaliyet gösteren laboratuvarımızda; insan davranışının, sosyal tutumların ve psikolojik iyi oluşun arkasındaki mekanizmaları inceliyoruz. Temel araştırma alanlarımız arasında **damgalama (stigma), mükemmeliyetçilik, öz-şefkat, öz-belirleme kuramı (psikolojik ihtiyaçlar ve motivasyon) ve duygu işleme süreçleri** yer almaktadır. İleri kantitatif yöntemler, yol analizi, yapısal eşitlik modellemesi (SEM) ve karma yöntemli desenler kullanan SOHE LAB, evrensel psikoloji yaklaşımlarını kültürel dinamiklerle harmanlamayı ve toplumsal refaha katkı sunacak bilimsel çıktılar üretmeyi amaçlar.
+    design:
+      columns: '1'
+    
+  # 2. BÖLÜM: Director / Direktör Profil Alanı
   - block: resume-biography-3
     content:
       username: me
@@ -24,22 +40,6 @@ sections:
       avatar:
         size: medium
         shape: circle
-
-  # 2. BÖLÜM: SOHE LAB Giriş ve Vizyon Yazısı
-  - block: markdown
-    content:
-      title: '🔬 SOHE LAB / Social & Health Psychology Lab'
-      subtitle: ''
-      text: |-
-        Welcome to the official portal of **SOHE LAB**. Directed by Assoc. Prof. Dr. Melike Eğer Aydoğmuş at Hacettepe University, our laboratory investigates the psychological mechanisms underlying human behavior, social attitudes, and well-being. 
-
-        Our primary research lines focus on the dynamics of **stigma, perfectionism, self-compassion, self-determination theory (psychological needs and motivation), and emotion processing**. Utilizing advanced quantitative methodologies, path analyses, structural equation modeling (SEM), and mixed-methods research designs, SOHE LAB aims to bridge universal psychological constructs with profound cultural dynamics. We strive to generate scientific evidence that informs public health, shapes educational interventions, and guides policy-making for vulnerable groups.
-
-        ---
-
-        **SOHE LAB Araştırma Dünyasına Hoş Geldiniz.** Hacettepe Üniversitesi bünyesinde Doç. Dr. Melike Eğer Aydoğmuş direktörlüğünde faaliyet gösteren laboratuvarımızda; insan davranışının, sosyal tutumların ve psikolojik iyi oluşun arkasındaki mekanizmaları inceliyoruz. Temel araştırma alanlarımız arasında **damgalama (stigma), mükemmeliyetçilik, öz-şefkat, öz-belirleme kuramı (psikolojik ihtiyaçlar ve motivasyon) ve duygu işleme süreçleri** yer almaktadır. İleri kantitatif yöntemler, yol analizi, yapısal eşitlik modellemesi (SEM) ve karma yöntemli desenler kullanan SOHE LAB, evrensel psikoloji yaklaşımlarını kültürel dinamiklerle harmanlamayı ve toplumsal refaha katkı sunacak bilimsel çıktılar üretmeyi amaçlar.
-    design:
-      columns: '1'
 
   # 3. BÖLÜM: Our Team / Ekibimiz
   - block: markdown
