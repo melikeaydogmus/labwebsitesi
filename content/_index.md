@@ -6,6 +6,7 @@ date: 2022-10-24
 type: landing
 
 sections:
+  # 1. BÖLÜM: Director / Direktör Profil Alanı
   - block: resume-biography-3
     content:
       username: me
@@ -24,6 +25,7 @@ sections:
         size: medium
         shape: circle
 
+  # 2. BÖLÜM: SOHE LAB Giriş ve Vizyon Yazısı
   - block: markdown
     content:
       title: '🔬 SOHE LAB / Social & Health Psychology Lab'
@@ -39,6 +41,7 @@ sections:
     design:
       columns: '1'
 
+  # 3. BÖLÜM: Our Team / Ekibimiz
   - block: markdown
     id: team
     content:
@@ -59,6 +62,68 @@ sections:
     design:
       columns: '1'
 
+  # 4. BÖLÜM: Publications / Öne Çıkan Yayınlar
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications / Öne Çıkan Yayınlar
+      count: 0
+      filters:
+        folders:
+          - publications
+        featured_only: false
+    design:
+      view: article-grid
+      columns: '2'
+
+  # 5. BÖLÜM: Projects / Projeler (Güncel Yayınlar Yerine Yerleşti)
+  - block: collection
+    id: projects
+    content:
+      title: Projects / Projeler ve Araştırmalar
+      text: 'Ongoing and completed research projects at SOHE LAB.'
+      count: 0
+      filters:
+        folders:
+          - project
+    design:
+      view: card
+      columns: '2'
+
+  # 6. BÖLÜM: SOHE Life / Labdan Kareler (Galeri)
+  - block: collection
+    id: news
+    content:
+      title: SOHE Life / Labdan Kareler
+      subtitle: ''
+      text: ''
+      page_type: blog
+      count: 10
+      filters:
+        author: ''
+        category: ''
+        tag: ''
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ''
+      offset: 0
+      order: desc
+    design:
+      view: card
+
+  # 7. BÖLÜM: Talks / Etkinlikler ve Konuşmalar
+  - block: collection
+    id: talks
+    content:
+      title: Talks & Events / Etkinlikler ve Konuşmalar
+      filters:
+        folders:
+          - events
+    design:
+      view: card
+
+  # 8. BÖLÜM: Join Us / Bize Katılın (Hizalaması ve Kapanışı Düzeltildi)
   - block: markdown
     id: join
     content:
@@ -84,62 +149,4 @@ sections:
         *Başvuru dönemleri genel olarak her akademik dönemin başında açılmaktadır. Ekibimizin bir parçası olmakla ilgileniyorsanız, özgeçmişinizi ve kısa bir niyet mektubunu lab koordinatörümüze e-posta yoluyla iletebilirsiniz.*
     design:
       columns: '1'
-
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications / Öne Çıkan Yayınlar
-      count: 0
-      filters:
-        folders:
-          - publications
-        featured_only: false
-    design:
-      view: article-grid
-      columns: '2'
-
-  - block: collection
-    content:
-      title: Recent Publications / Güncel Yayınlar
-      text: ''
-      count: 0
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-
-  - block: collection
-    id: talks
-    content:
-      title: Talks & Events / Etkinlikler ve Konuşmalar
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-
-  - block: collection
-    id: news
-    content:
-      title: SOHE Life / Labdan Kareler
-      subtitle: ''
-      text: ''
-      page_type: blog
-      count: 10
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      offset: 0
-      order: desc
-    design:
-      view: card
-      spacing:
-        padding: [0, 0, 0, 0]
 ---
