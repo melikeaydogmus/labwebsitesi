@@ -6,7 +6,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # 1. BÖLÜM: SOHE LAB Giriş, İki Fotoğraf (.jpeg) ve İki Kolonlu Metin Düzeni
+  # 1. BÖLÜM: SOHE LAB Giriş, İki Fotoğraf (Geliştirilmiş Yol) ve İki Kolonlu Metin Düzeni
   - block: markdown
     id: sohelab
     content:
@@ -15,10 +15,10 @@ sections:
       text: |-
         <div style="display: flex; gap: 20px; margin-bottom: 30px; width: 100%;">
           <div style="flex: 1; text-align: center;">
-            <img src="media/lab-1.jpeg" alt="SOHE LAB Team" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); object-fit: cover;">
+            <img src="/media/lab-1.jpeg" alt="SOHE LAB Team" onerror="this.src='/media/lab-1.jpg'; this.onerror=function(){this.src='/media/lab-1.JPEG';};" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); object-fit: cover;">
           </div>
           <div style="flex: 1; text-align: center;">
-            <img src="media/lab-2.jpeg" alt="SOHE LAB Research" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); object-fit: cover;">
+            <img src="/media/lab-2.jpeg" alt="SOHE LAB Research" onerror="this.src='/media/lab-2.jpg'; this.onerror=function(){this.src='/media/lab-2.JPEG';};" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); object-fit: cover;">
           </div>
         </div>
 
