@@ -6,21 +6,14 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # 1. BÖLÜM: SOHE LAB Giriş, İki Fotoğraf (Küçültülmüş ve Yan Yana) ve İki Kolonlu Metin Düzeni
+  # 1. BÖLÜM: SOHE LAB Giriş, İki Fotoğraf (Yerel Yöntemle Küçültülmüş) ve İki Kolonlu Metin Düzeni
   - block: markdown
     id: sohelab
     content:
       title: '🔬 SOHE LAB / Social & Health Psychology Lab'
       subtitle: ''
       text: |-
-        <div style="display: flex; gap: 15px; margin-bottom: 25px; width: 100%; justify-content: center;">
-          <div style="width: 40%; text-align: center;">
-            <img src="/media/lab-1.jpeg" alt="SOHE LAB Team" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 3px 6px rgba(0,0,0,0.08); object-fit: cover;">
-          </div>
-          <div style="width: 40%; text-align: center;">
-            <img src="/media/lab-2.jpeg" alt="SOHE LAB Research" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 3px 6px rgba(0,0,0,0.08); object-fit: cover;">
-          </div>
-        </div>
+        ![SOHE LAB Team](lab-1.jpeg?width=45%25) ![SOHE LAB Research](lab-2.jpeg?width=45%25)
 
         <table style="width:100%; border:none; border-collapse:collapse; margin-top:20px;">
           <tr>
