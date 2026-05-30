@@ -20,5 +20,8 @@ main:
   - name: Projects / Projeler
     url: projects/
     weight: 35
+  - name: "Our Team / Ekibimiz"
+    url: "#team"
+    weight: 25
 
 
