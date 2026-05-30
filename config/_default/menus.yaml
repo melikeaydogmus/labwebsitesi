@@ -6,23 +6,23 @@
  # Sitenizin üst menü yapılandırması
 main:
   - name: "Director / Direktör"
-    url: /
+    url: "#about"
     weight: 10
   - name: "Our Team / Ekibimiz"
     url: "#team"
-    weight: 25
-  - name: Projects / Projeler
-    url: projects/
-    weight: 35
-  - name: Publications / Yayınlar
-    url: /#papers
-    weight: 15
-  - name: Talks / Etkinlikler
-    url: /#talks
     weight: 20
-  - name: SOHE Life / Labdan Kareler
-    url: /#news
-    weight: 25
+  - name: "Publications / Yayınlar"
+    url: "#papers"
+    weight: 30
+  - name: "Projects / Projeler"
+    url: "projects/"
+    weight: 40
+  - name: "SOHE Life / Labdan Kareler"
+    url: "#news"
+    weight: 50
+  - name: "Talks / Etkinlikler"
+    url: "#talks"
+    weight: 60
   - name: "Join Us / Bize Katılın"
     url: "#join"
-    weight: 28
+    weight: 70
