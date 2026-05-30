@@ -6,19 +6,21 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # 1. BÖLÜM: Fotoğrafları Yan Yana ve Eşit Boyutta Küçülten Hazır Şablon Bloğu
+  # 1. BÖLÜM: Fotoğrafları Yan Yana ve Eşit Boyutta Küçülten Standart Galeri Bloğu
   - block: gallery
     id: lab-gallery
     content:
       title: '🔬 SOHE LAB'
       subtitle: 'Social & Health Psychology Lab'
-      illustrations:
-        - image: lab-1.jpeg
+      # Standart şablon yapısına uygun olarak 'images' olarak düzeltildi
+      images:
+        - src: lab-1.jpeg
+          alt: SOHE LAB Team
           caption: ''
-        - image: lab-2.jpeg
+        - src: lab-2.jpeg
+          alt: SOHE LAB Research
           caption: ''
     design:
-      # Bu ayar fotoğrafları yan yana 2 kolon halinde kusursuzca dizer ve küçültür
       columns: '2'
 
   # 2. BÖLÜM: İki Kolonlu İngilizce-Türkçe Tanıtım Metni (Fotoğrafların Hemen Altında Başlar)
