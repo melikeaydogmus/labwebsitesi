@@ -6,23 +6,16 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # 1. BÖLÜM: SOHE LAB Giriş, İki Fotoğraf (Geliştirilmiş Yol) ve İki Kolonlu Metin Düzeni
+  # 1. BÖLÜM: SOHE LAB Giriş, İki Fotoğraf ve İki Kolonlu Metin Düzeni
   - block: markdown
     id: sohelab
     content:
       title: '🔬 SOHE LAB / Social & Health Psychology Lab'
       subtitle: ''
       text: |-
-        <div style="display: flex; gap: 20px; margin-bottom: 30px; width: 100%;">
-          <div style="flex: 1; text-align: center;">
-            <img src="/media/lab-1.jpeg" alt="SOHE LAB Team" onerror="this.src='/media/lab-1.jpg'; this.onerror=function(){this.src='/media/lab-1.JPEG';};" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); object-fit: cover;">
-          </div>
-          <div style="flex: 1; text-align: center;">
-            <img src="/media/lab-2.jpeg" alt="SOHE LAB Research" onerror="this.src='/media/lab-2.jpg'; this.onerror=function(){this.src='/media/lab-2.JPEG';};" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); object-fit: cover;">
-          </div>
-        </div>
+        ![SOHE LAB Team](lab-1.jpeg) ![SOHE LAB Research](lab-2.jpeg)
 
-        <table style="width:100%; border:none; border-collapse:collapse;">
+        <table style="width:100%; border:none; border-collapse:collapse; margin-top:20px;">
           <tr>
             <td style="width:50%; padding-right:25px; vertical-align:top; border:none; line-height:1.6;">
               Welcome to the official portal of **SOHE LAB**. Directed by Assoc. Prof. Dr. Melike Eğer Aydoğmuş at Hacettepe University, our laboratory investigates the psychological mechanisms underlying human behavior, social attitudes, and well-being.
@@ -69,7 +62,7 @@ sections:
         #### **Director / Laboratuvar Direktörü**
         * **Assoc. Prof. Dr. Melike Eğer Aydoğmuş** (Hacettepe University)
 
-        #### **Lab Coordinator / Laboratuvar Koordinatörü**
+        #### **Lab Coordinator / Laboravuvar Koordinatörü**
         * **Damla Gültekin Gökçeli, M.A.** - Email: [damlagultekin@hacettepe.edu.tr](mailto:damlagultekin@hacettepe.edu.tr)
 
         #### **Graduate Student Researchers / Lisansüstü Öğrenci Araştırmacılar**
@@ -168,7 +161,7 @@ sections:
         **SOHE LAB** bünyesinde, araştırma mutfağımıza dahil olacak tutkulu, motivasyonu yüksek lisans ve lisansüstü öğrencileriyle çalışmaktan her zaman mutluluk duyuyoruz. Ekibimizde yer almak; deneysel desenler, ileri kantitatif yöntemler, veri toplama ve makale hazırlama süreçlerinde doğrudan saha ve mutfak deneyimi kazanma fırsatı sunar.
 
         **Kimler Başvurabilir?**
-        * **Lisans Öğrencileri:** Araştırma süreçlerini öğrenmeye hevesli, gönüllü araştırmacı olarak aktif projelere destek vermek isteyen psikoloji ve ilişkili bölümlerin öğrencileri.
+        * **Lisans Öğrencileri:** Araştırma süreçlerini öğrenmeye hevesli, gönüllü araştırmacı olarak aktif projelere destek vermek isteyen psikoloji ogrencileri.
         * **Lisansüstü Öğrencileri (Yüksek Lisans/Doktora):** Sosyal ve sağlık psikolojisi temalarında (damgalama, mükemmeliyetçilik, öz-şefkat) uzmanlaşmak isteyen ve karma yöntemlere ilgi duyan araştırmacılar.
 
         *Başvuru dönemleri genel olarak her akademik dönemin başında açılmaktadır. Ekibimizin bir parçası olmakla ilgileniyorsanız, özgeçmişinizi ve kısa bir niyet mektubunu lab koordinatörümüze e-posta yoluyla iletebilirsiniz.*
