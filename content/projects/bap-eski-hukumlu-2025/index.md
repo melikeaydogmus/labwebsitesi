@@ -1,5 +1,6 @@
 ---
-title: "Factors Influencing the Employment of Ex-Convicts: A Mixed-Methods Study / Eski Hükümlü İstihdamında Adayın ve İşverenin Hangi Özellikleri Ne Derece Etkili? Karma Yöntemli Bir Çalışma"
+title: "Factors Influencing the Employment of Ex-Convicts: A Mixed-Methods Study"
+subtitle: "Eski Hükümlü İstihdamında Adayın ve İşverenin Hangi Özellikleri Ne Derece Etkili? Karma Yöntemli Bir Çalışma"
 summary: "Hacettepe University BAP Fast Support Project / Hacettepe Üniversitesi BAP Hızlı Destek Projesi (2025-2026)"
 tags:
   - Research Grant
