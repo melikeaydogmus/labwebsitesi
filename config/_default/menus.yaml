@@ -5,7 +5,7 @@
 
  # Sitenizin üst menü yapılandırması
 main:
-  - name: Our Team / Ekibimiz
+  - name: Current Team / Aktif Ekibimiz
     url: '#team'
     weight: 10          # En küçük değer olduğu için en başa (en sola) bu gelecek
   - name: Director / Direktör
