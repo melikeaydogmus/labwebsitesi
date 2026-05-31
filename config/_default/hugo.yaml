@@ -5,8 +5,8 @@
 
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: "Aydoğmuş Saglik ve Sosyal Psikoloji Laboratuvari"
-# Website URL
-baseURL: 'https://example.com/'
+description: "SOHE LAB is a social and health psychology research laboratory at Hacettepe University, directed by Assoc. Prof. Dr. Melike Eğer Aydoğmuş."
+baseURL: 'https://melikeaydogmus.github.io/labwebsitesi/'
 
 ############################
 ## LANGUAGE
