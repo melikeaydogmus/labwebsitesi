@@ -14,8 +14,22 @@ postnominals:
 status:
   icon: ""
 role: "Associate Professor of Social Psychology"
+
+# BİYOGRAFİ ALANI: İngilizce-Türkçe Yan Yana Tablo Düzenine Getirildi
 bio: |
-  Dr. Melike Eğer Aydoğmuş is an Associate Professor of Social Psychology at Hacettepe University. Her research on stigma, psychological needs and motivation, emotion processes, self-compassion, and perfectionism has been published in leading peer-reviewed journals, utilizing advanced quantitative methodologies. Melike is passionate about bridging cultural and universal approaches to deepen our understanding of psychological well-being and societal attitudes.
+  <h3 style="margin-top: 0; margin-bottom: 20px; font-weight: bold; color: #333;">Director / Direktör</h3>
+  <table style="width:100%; border:none; border-collapse:collapse; margin-top:10px;">
+    <tr>
+      <!-- İNGİLİZCE BİYOGRAFİ -->
+      <td style="width:50%; padding-right:25px; vertical-align:top; border:none; line-height:1.6; text-align:justify;">
+        Dr. Melike Eğer Aydoğmuş is an Associate Professor of Social Psychology at Hacettepe University. Her research on stigma, psychological needs and motivation, emotion processes, self-compassion, and perfectionism has been published in leading peer-reviewed journals, utilizing advanced quantitative methodologies. Melike is passionate about bridging cultural and universal approaches to deepen our understanding of psychological well-being and societal attitudes.
+      </td>
+      <!-- TÜRKÇE BİYOGRAFİ -->
+      <td style="width:50%; padding-left:25px; vertical-align:top; border-left:1px solid #e3e3e3; border-top:none; border-right:none; border-bottom:none; line-height:1.6; text-align:justify;">
+        Doç. Dr. Melike Eğer Aydoğmuş, Hacettepe Üniversitesi Psikoloji Bölümü'nde Sosyal Psikoloji alanında öğretim üyesidir. Damgalama (stigma), psikolojik ihtiyaçlar ve motivasyon, duygu işleme süreçleri, öz-şefkat ve mükemmeliyetçilik üzerine ileri kantitatif metodolojiler kullanarak yürüttüğü araştırmaları, alanın önde gelen hakemli dergilerinde yayımlanmıştır. Dr. Eğer Aydoğmuş, psikolojik iyi oluşu ve toplumsal tutumları daha derinlemesine anlamak adına kültürel ve evrensel yaklaşımları birbirine bağlayan çalışmalar yürütmektedir.
+      </td>
+    </tr>
+  </table>
 
 affiliations:
   - name: "Hacettepe University Department of Psychology"
@@ -99,4 +113,3 @@ awards:
   - title: "Hacettepe University BAP Fast Track Project"
     awarder: "Hacettepe University"
     date: "2026-01-01"
-    summary: "Principal Investigator (2026–Present)"
