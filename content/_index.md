@@ -113,9 +113,9 @@ sections:
 
         <hr style="border:0; border-top:1px solid #e3e3e3; margin:25px 0;">
 
-        <!-- PROJE ALANI FOTOĞRAFI (Yolu Güncellenmiş Hali) -->
+        <!-- PROJE ALANI FOTOĞRAFI (Content İçin En Sade ve Kesin Çözüm) -->
         <div style="text-align: center; margin: 20px 0;">
-          <img src="/media/projects-team.jpeg" alt="SOHE LAB Research Team" style="max-width: 100%; height: auto; border-    radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <img src="projects-team.jpeg" alt="SOHE LAB Research Team" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         </div>
 
         <p style="line-height: 1.6; margin-bottom: 15px;">
