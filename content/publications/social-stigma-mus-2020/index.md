@@ -1,7 +1,7 @@
 ---
 title: "Social Stigma Towards People with Medically Unexplained Symptoms: the Somatic Symptom Disorder"
 authors:
-  - admin
+  - "Melike Eğer Aydoğmuş"
 date: "2020-01-01"
 publication_types: ["article-journal"]
 publication: "*Psychiatric Quarterly*, 91, 349–361"
