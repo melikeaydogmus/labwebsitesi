@@ -16,7 +16,7 @@ featured: false
 ### 📋 Project Details / Proje Künyesi
 
 * **Project Type / Proje Türü:** TÜBİTAK 2209-A University Student Research Projects Support Program (2026 1st Term) / TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı (2026 1. Dönem)
-* **Advisor / Danışman:** Doç. Dr. Melike Eğer Aydoğmuş
+* **Advisor / Danışman:** Doç. Dr. Melike Eğer Aydoğmuş ve Doç. Dr. Funda B. Yıldırım
 * **Student Researchers / Proje Yürütücüleri:** Zehra Nur Ayaz, Tuğçe Topçuoğlu, Tuana Yücel
 * **Institution / Kurum:** Hacettepe University / Hacettepe Üniversitesi
 * **Project Period / Proje Dönemi:** 2026 - Ongoing / Devam Ediyor
