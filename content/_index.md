@@ -20,12 +20,12 @@ sections:
             <td style="width:50%; padding-right:25px; vertical-align:top; border:none; line-height:1.6;">
               Welcome to the official portal of **SOHE LAB**. Directed by Assoc. Prof. Dr. Melike Eğer Aydoğmuş at Hacettepe University, our laboratory investigates the psychological mechanisms underlying human behavior, social attitudes, and well-being.
               <br><br>
-              Our primary research lines focus on the dynamics of **stigma, perfectionism, self-compassion, self-determination theory (psychological needs and motivation), and emotion processing**. Utilizing advanced quantitative methodologies, path analyses, structural equation modeling (SEM), and mixed-methods research designs, SOHE LAB aims to bridge universal psychological constructs with profound cultural dynamics. We strive to generate scientific evidence that informs public health, shapes educational interventions, and guides policy-making for vulnerable groups.
+              Our primary research lines focus on the dynamics of **stigma, perfectionism, self-compassion, self-determination theory (psychological needs and motivation), and emotion processing**. Utilizing advanced quantitative analyses, structural equation modeling (SEM), and mixed-methods research designs, SOHE LAB aims to bridge universal psychological constructs with profound cultural dynamics. We strive to generate scientific evidence that informs public health, shapes educational interventions, and guides policy-making for vulnerable groups.
             </td>
             <td style="width:50%; padding-left:25px; vertical-align:top; border-left:1px solid #e3e3e3; border-top:none; border-right:none; border-bottom:none; line-height:1.6;">
               **SOHE LAB Araştırma Dünyasına Hoş Geldiniz.** Hacettepe Üniversitesi bünyesinde Doç. Dr. Melike Eğer Aydoğmuş direktörlüğünde faaliyet gösteren laboratuvarımızda; insan davranışının, sosyal tutumların ve psikolojik iyi oluşun arkasındaki mekanizmaları inceliyoruz.
               <br><br>
-              Temel araştırma alanlarımız arasında **damgalama (stigma), mükemmeliyetçilik, öz-şefkat, öz-belirleme kuramı (psikolojik ihtiyaçlar ve motivasyon) ve duygu işleme süreçleri** yer almaktadır. İleri kantitatif yöntemler, yol analizi, yapısal eşitlik modellemesi (SEM) ve karma yöntemli desenler kullanan SOHE LAB, evrensel psikoloji yaklaşımlarını kültürel dinamiklerle harmanlamayı ve toplumsal refaha katkı sunacak bilimsel çıktılar üretmeyi amaçlar.
+              Temel araştırma alanlarımız arasında **damgalama (stigma), mükemmeliyetçilik, öz-şefkat, öz-belirleme kuramı (psikolojik ihtiyaçlar ve motivasyon) ve duygu işleme süreçleri** yer almaktadır. İleri nicel analizler, yapısal eşitlik modellemesi (SEM) ve karma yöntemli desenler kullanan SOHE LAB, evrensel psikoloji yaklaşımlarını kültürel dinamiklerle harmanlamayı ve toplumsal refaha katkı sunacak bilimsel çıktılar üretmeyi amaçlar.
             </td>
           </tr>
         </table>
@@ -148,23 +148,18 @@ sections:
       title: '🚀 Join Us / Bize Katılın'
       subtitle: 'Become a part of the SOHE LAB research team'
       text: |-
-        At **SOHE LAB**, we are always looking for passionate, motivated, and dedicated undergraduate and graduate students to join our research pipeline. Working with us offers hands-on experience in experimental designs, advanced quantitative methodologies, data collection, and manuscript preparation.
-
-        **Who can apply?**
-        * **Undergraduate Students:** Psychology or related disciplines who are eager to learn research processes and support active projects as volunteer researchers.
-        * **Graduate Students (MA/PhD):** Researchers looking to specialize in social and health psychology constructs (stigma, perfectionism, self-compassion) with a strong background or interest in mixed methods.
-
-        *Application periods generally open at the beginning of each academic semester. If you are interested in joining our team, please send your CV and a brief statement of purpose to our lab coordinator.*
-
-        ---
-
-        **SOHE LAB** bünyesinde, araştırma mutfağımıza dahil olacak tutkulu, motivasyonu yüksek lisans ve lisansüstü öğrencileriyle çalışmaktan her zaman mutluluk duyuyoruz. Ekibimizde yer almak; deneysel desenler, ileri kantitatif yöntemler, veri toplama ve makale hazırlama süreçlerinde doğrudan saha ve mutfak deneyimi kazanma fırsatı sunar.
-
-        **Kimler Başvurabilir?**
-        * **Lisans Öğrencileri:** Araştırma süreçlerini öğrenmeye hevesli, gönüllü araştırmacı olarak aktif projelere destek vermek isteyen psikoloji ogrencileri.
-        * **Lisansüstü Öğrencileri (Yüksek Lisans/Doktora):** Sosyal ve sağlık psikolojisi temalarında (damgalama, mükemmeliyetçilik, öz-şefkat) uzmanlaşmak isteyen ve karma yöntemlere ilgi duyan araştırmacılar.
-
-        *Başvuru dönemleri genel olarak her akademik dönemin başında açılmaktadır. Ekibimizin bir parçası olmakla ilgileniyorsanız, özgeçmişinizi ve kısa bir niyet mektubunu lab koordinatörümüze e-posta yoluyla iletebilirsiniz.*
+        <table style="width:100%; border:none; border-collapse:collapse;">
+          <tr>
+            <!-- İNGİLİZCE KATILIM METNİ -->
+            <td style="width:50%; padding-right:25px; vertical-align:top; border:none; line-height:1.6; text-align:justify;">
+              **SOHE LAB** is always delighted to welcome passionate and highly motivated undergraduate and graduate students into our research pipeline. Being a part of our team offers firsthand field and kitchen experience in literature reviews, experimental designs, advanced quantitative methodologies, data collection, and manuscript preparation. Researchers who are eager to specialize in social and health psychology domains—such as stigma, psychological needs, personality, motivation, cross-cultural differences, perfectionism, self-compassion, and emotion processes—and who hold an interest in mixed methods are welcome to join us as volunteer lab members. To be a volunteer, please email our Lab Coordinator Damla G. Gökçeli via <a href="mailto:damlagultekin@hacettepe.edu.tr">damlagultekin@hacettepe.edu.tr</a>. Those who wish to complete their Master's or Ph.D. studies under the supervision of the Director as an official member of the lab may reach out via the lab director’s email address at <a href="mailto:melikeaydogmus@hacettepe.edu.tr">melikeaydogmus@hacettepe.edu.tr</a>.
+            </td>
+            <!-- TÜRKÇE KATILIM METNİ -->
+            <td style="width:50%; padding-left:25px; vertical-align:top; border-left:1px solid #e3e3e3; border-top:none; border-right:none; border-bottom:none; line-height:1.6; text-align:justify;">
+              **SOHE LAB** bünyesinde, araştırma mutfağımıza dahil olacak tutkulu, motivasyonu yüksek lisans ve lisansüstü öğrencileriyle çalışmaktan her zaman mutluluk duyuyoruz. Ekibimizde yer almak; literatür taraması, deneysel desenler, ileri nicel yöntemler, veri toplama ve makale hazırlama süreçlerinde doğrudan saha ve mutfak deneyimi kazanma fırsatı sunar. Sosyal ve sağlık psikolojisi temalarında (damgalama, psikolojik ihtiyaçlar, kişilik, motivasyon, kültürler arası farklılıklar, mükemmeliyetçilik, öz-şefkat, duygu süreçleri) uzmanlaşmak isteyen ve karma yöntemlere ilgi duyan araştırmacılar, laboratuvar koordinatörümüz Damla G. Gökçeli'ye <a href="mailto:damlagultekin@hacettepe.edu.tr">damlagultekin@hacettepe.edu.tr</a> adresi üzerinden e-posta göndererek gönüllü laboratuvar üyeleri olarak bize dahil olabilirler. Direktör danışmanlığında yüksek lisans ve doktora çalışmalarını laboratuvarın resmi bir üyesi olarak tamamlamak isteyenler ise direktörün <a href="mailto:melikeaydogmus@hacettepe.edu.tr">melikeaydogmus@hacettepe.edu.tr</a> adresli e-postası aracılığıyla iletişim kurabilirler.
+            </td>
+          </tr>
+        </table>
     design:
       columns: '1'
 ---
