@@ -1,5 +1,6 @@
 ---
-title: "🏆 Achievement: ICBA Presentation & Travel Grant / Başarı: ICBA Konferans Sunumu ve Seyahat Bursu Kabulü"
+title: "🏆 Achievement: ICBA Presentation & Travel Grant"
+subtitle: "Başarı: ICBA Konferans Sunumu ve Seyahat Bursu Kabulü"
 summary: "SOHE LAB ekibinin davranışsal bağımlılık üzerine yürüttüğü boylamsal araştırma, 11. Uluslararası Davranışsal Bağımlılık Konferansı'ndan (ICBA) burslu sunum kabulü aldı."
 date: 2026-05-31
 featured: true
