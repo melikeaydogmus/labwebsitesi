@@ -129,24 +129,18 @@ sections:
       columns: '1'
       view: card
   
-  # 6. BÖLÜM: SOHE Life / Labdan Kareler (Galeri)
+ # 6. BÖLÜM: SOHE Life / Labdan Kareler (En Güvenli Filtreli Yapı)
   - block: collection
-    id: news
+    id: sohelife
     content:
       title: SOHE Life / Labdan Kareler
       subtitle: ''
       text: ''
-      page_type: blog
-      count: 10
+      page_type: post
       filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      offset: 0
+        folders:
+          - post
+      count: 10
       order: desc
     design:
       view: card
