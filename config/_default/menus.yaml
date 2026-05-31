@@ -5,11 +5,11 @@
 
  # Sitenizin üst menü yapılandırması
 main:
+   - name: "Our Team / Ekibimiz"
+    url: "/#team"
+    weight: 10
   - name: "Director / Direktör"
     url: "/#about"
-    weight: 10
-  - name: "Our Team / Ekibimiz"
-    url: "/#team"
     weight: 20
   - name: "Publications / Yayınlar"
     url: "/#papers"
