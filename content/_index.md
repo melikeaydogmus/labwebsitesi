@@ -32,11 +32,11 @@ sections:
     design:
       columns: '1'
     
-  # 2. BÖLÜM: Our Team / Ekibimiz (YENİ YERİ: Direktörün Üstüne Taşındı)
+  # 2. BÖLÜM: Current Team / Aktif Ekibimiz (YENİ BAŞLIK ENTEGRE EDİLDİ)
   - block: markdown
     id: team
     content:
-      title: '👥 Our Team / Ekibimiz'
+      title: '👥 Current Team / Aktif Ekibimiz'
       subtitle: 'The minds driving the research at SOHE LAB'
       text: |-
         #### **Director / Laboratuvar Direktörü**
