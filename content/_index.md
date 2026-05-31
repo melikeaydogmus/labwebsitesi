@@ -125,6 +125,9 @@ sections:
         </p>
         
         <a href="projects/" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; margin-top: 5px;">Explore Projects / Projeleri İncele ➡️</a>
+      filters:
+        folders:
+          - 'non-existent-folder'  # Boş veya var olmayan bir klasör ismi vererek otomatik listelemeyi tamamen kapatıyoruz.
     design:
       columns: '1'
       view: card
