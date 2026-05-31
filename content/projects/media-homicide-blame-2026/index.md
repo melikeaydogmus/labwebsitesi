@@ -1,5 +1,6 @@
 ---
-title: "The Effect of Gender, Psychological Disorder, and Victim's Social Role in Homicide News on Blaming Tendencies / Cinayet Haberlerinde Cinsiyet, Psikolojik Rahatsızlık ve Mağdurun Sosyal Rolünün Suçlama Eğilimleri Üzerindeki Etkisi"
+title: "The Effect of Gender, Psychological Disorder, and Victim's Social Role in Homicide News on Blaming Tendencies"
+subtitle: "Cinayet Haberlerinde Cinsiyet, Psikolojik Rahatsızlık ve Mağdurun Sosyal Rolünün Suçlama Eğilimleri Üzerindeki Etkisi"
 summary: "Experimental Research Project / Deneysel Araştırma Projesi (2025 - Ongoing)"
 tags:
   - Media Psychology
