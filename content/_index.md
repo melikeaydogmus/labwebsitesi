@@ -32,27 +32,7 @@ sections:
     design:
       columns: '1'
     
-  # 2. BÖLÜM: Director / Direktör Profil Alanı
-  - block: resume-biography-3
-    id: about
-    content:
-      username: me
-      text: ''
-      headings:
-        about: ''
-        education: ''
-        interests: ''
-    design:
-      background:
-        gradient_mesh:
-          enable: true
-      name:
-        size: md
-      avatar:
-        size: medium
-        shape: circle
-
-  # 3. BÖLÜM: Our Team / Ekibimiz
+  # 2. BÖLÜM: Our Team / Ekibimiz (YENİ YERİ: Direktörün Üstüne Taşındı)
   - block: markdown
     id: team
     content:
@@ -72,6 +52,26 @@ sections:
         * **Şebnem Ünal** * **Abdulkerim Altuğ Koç** * **Kıymet Ayşegül Kardeş** * **Zeynep Sude Gürlesin** * **Zehra Nur Ayaz** * **Tuğçe Topçuoğlu** * **Tuana Yücel** * **Asya Çetin** * **Bilge Durak** * **Zeynep Yüksel** * **Beyza Ekin Nigar**
     design:
       columns: '1'
+    
+  # 3. BÖLÜM: Director / Direktör Profil Alanı (YENİ YERİ: Ekibimizin Altına Kaydırıldı)
+  - block: resume-biography-3
+    id: about
+    content:
+      username: me
+      text: ''
+      headings:
+        about: ''
+        education: ''
+        interests: ''
+    design:
+      background:
+        gradient_mesh:
+          enable: true
+      name:
+        size: md
+      avatar:
+        size: medium
+        shape: circle
 
   # 4. BÖLÜM: Publications / Öne Çıkan Yayınlar
   - block: collection
