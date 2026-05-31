@@ -2,7 +2,7 @@
 title: "Somatoform, Factitious, and Related Diagnoses in the National Hospital Discharge Survey: Addressing the Proposed DSM-5 Revision"
 authors:
   - "J. C. Hamilton"
-  - admin
+  - "Melike Eğer Aydoğmuş"
   - "S. Razzak"
   - "M. D. Feldman"
   - "N. Hallmark"
