@@ -87,26 +87,42 @@ sections:
       view: article-grid
       columns: '2'
 
-  # 5. BÖLÜM: Projects / Projeler (Ziyaretçiyi yönlendiren kurumsal butonlu alan)
-  - block: markdown
+  # 5. BÖLÜM: Projects & Collaborations / Projeler ve Ortaklıklar (Yönlendirme Butonlu Güncel Yapı)
+  - block: collection
     id: projects
     content:
-      title: '🔬 Projects / Projeler ve Araştırmalar'
-      subtitle: 'Ongoing and completed research projects at SOHE LAB'
+      title: '🔬 Projects & Collaborations / Projeler ve Ortaklıklar'
+      subtitle: 'International, national, and cross-cultural research pipelines at SOHE LAB'
       text: |-
-        At **SOHE LAB**, we manage national and international research projects utilizing advanced psychological methodologies, tracking psychological health, stigma, and self-compassion constructs. 
+        At <strong>SOHE LAB</strong>, we lead and collaborate on high-impact national and international cross-cultural projects. Our active research pipelines investigate the complexities of stigma, ageism, humor, and psychological well-being across diverse cultural contexts.
+        <br><br>
+        <strong>SOHE LAB</strong> bünyesinde, yüksek akademik etkiye sahip ulusal ve kültürlerarası uluslararası projeler yürütmekte ve ortaklıklar kurmaktayız. Aktif araştırma hatlarımız; damgalama, yaş ayrımcılığı, mizah ve psikolojik iyi oluş gibi temaları farklı kültürel bağlamlarda incelemektedir.
+        
+        <hr style="border:0; border-top:1px solid #e3e3e3; margin:20px 0;">
 
-        To explore our active grants, cross-cultural studies, and completed research pipelines, please visit our dedicated projects portal.
+        ### 🌍 International Collaborations / Uluslararası Ortaklıklar
 
-        ---
+        * <strong>A Cross-Cultural Examination of Dementia Stigma Among Young Adults</strong><br>
+          • <em>International Collaborator:</em> Assoc. Prof. Dr. Molly Maxfield (Edson College of Nursing and Health Innovation, Arizona State University, USA)
+        
+        * <strong>A Longitudinal Cross-Cultural Study on the Consequences of Ageism</strong><br>
+          • <em>International Collaborators:</em> Asst. Prof. Dr. Aaron Guest & Asst. Prof. Dr. Hannah Giasson (Edson College of Nursing and Health Innovation, Arizona State University, USA)
+        
+        * <strong>Humor, Self-Compassion, and Psychological Well-Being: A Cross-Cultural Approach</strong><br>
+          • <em>International Collaborators:</em> Prof. Dr. Andrea Samson & Dr. Ana Milosavljevic (Faculty of Psychology, UniDistance Suisse / FernUni Schweiz, Brig, Switzerland)
 
-        **SOHE LAB** bünyesinde, ileri psikoloji metodolojilerini kullanarak damgalama, psikolojik ihtiyaçlar ve öz-şefkat gibi temaları inceleyen ulusal ve uluslararası projeler yürütmekteyiz. Aktif fonlarımızı, kültürlerarası çalışmalarımızı ve tamamlanan araştırma projelerimizi incelemek için lütfen projeler portalımızı ziyaret edin.
+        <hr style="border:0; border-top:1px solid #e3e3e3; margin:25px 0;">
 
-        <br>
-
-        <a href="projects/" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">Explore Projects / Projeleri İncele ➡️</a>
+        <p style="line-height: 1.6; margin-bottom: 15px;">
+          To explore our active grants, other ongoing and completed research pipelines, please visit our dedicated projects portal.
+          <br>
+          <em>Aktif fonlarımızı, devam eden ve tamamlanan araştırma projelerimizi incelemek için lütfen projeler portalımızı ziyaret edin.</em>
+        </p>
+        
+        <a href="projects/" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; margin-top: 5px;">Explore Projects / Projeleri İncele ➡️</a>
     design:
       columns: '1'
+      view: card
 
   # 6. BÖLÜM: SOHE Life / Labdan Kareler (Galeri)
   - block: collection
