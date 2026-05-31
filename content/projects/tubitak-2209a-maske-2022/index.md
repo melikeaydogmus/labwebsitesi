@@ -1,6 +1,5 @@
 ---
 title: "The Moderating Role of Gender in the Relationship Between Mask Usage Duration and Emotion Processing"
-subtitle: "Maske Kullanım Süresi ile Duygu İşleme Süreçleri Arasındaki İlişkide Cinsiyetin Düzenleyici Rolü"
 summary: "TÜBİTAK 2209-A Student Research Project / TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projesi (2022 - 2023)"
 tags:
   - TÜBİTAK 2209-A
@@ -10,6 +9,8 @@ tags:
 date: "2022-06-01"
 featured: false
 ---
+
+*Maske Kullanım Süresi ile Duygu İşleme Süreçleri Arasındaki İlişkide Cinsiyetin Düzenleyici Rolü*
 
 ### 📋 Project Details / Proje Künyesi
 
