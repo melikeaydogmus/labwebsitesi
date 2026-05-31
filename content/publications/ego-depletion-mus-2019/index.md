@@ -1,7 +1,7 @@
 ---
 title: "Ego Depletion as a Measure of Emotion Processing Deficits among MUS Patients"
 authors:
-  - admin
+  - "Melike Eğer Aydoğmuş"
   - "J. C. Hamilton"
 date: "2019-01-01"
 publication_types: ["article-journal"]
