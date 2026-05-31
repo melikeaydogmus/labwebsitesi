@@ -1,7 +1,7 @@
 ---
 title: "Psychological and demographic characteristics of older adults in cartoons on Netflix"
 authors:
-  - admin
+  - "Melike Eğer Aydoğmuş"
   - "N. Gunbas"
 date: "2025-01-01"
 publication_types: ["article-journal"]
