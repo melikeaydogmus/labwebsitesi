@@ -166,12 +166,12 @@ sections:
       view: card
 
   # 8. BÖLÜM: Join Us / Bize Katılın
- - block: markdown
-  id: join
-  content:
-    title: '🚀 Join Us / Bize Katılın'
-    subtitle: ''
-    text: |-
+   - block: markdown
+     id: join
+     content:
+       title: '🚀 Join Us / Bize Katılın'
+       subtitle: ''
+       text: |-
 
       ### 🇬🇧 Join Us
 
