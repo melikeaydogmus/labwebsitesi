@@ -1,6 +1,5 @@
 ---
 title: "Individual and Parental Psychological Characteristics Playing a Role in the Empathy Levels of High School Students"
-subtitle: "Lise Öğrencilerinin Empati Seviyesinde Rol Oynayan Bireye ve Ebeveyne Ait Psikolojik Özellikler"
 summary: "TÜBİTAK 2209-A Student Research Project / TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projesi (2026 - Term 1)"
 tags:
   - TÜBİTAK 2209-A
@@ -11,6 +10,8 @@ tags:
 date: "2026-05-18"
 featured: false
 ---
+
+*Lise Öğrencilerinin Empati Seviyesinde Rol Oynayan Bireye ve Ebeveyne Ait Psikolojik Özellikler*
 
 ### 📋 Project Details / Proje Künyesi
 
