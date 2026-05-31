@@ -87,7 +87,7 @@ sections:
       view: article-grid
       columns: '2'
 
-  # 5. BÖLÜM: Projects & Collaborations / Projeler ve Ortaklıklar (Yönlendirme Butonlu Güncel Yapı)
+  # 5. BÖLÜM: Projects & Collaborations / Projeler ve Ortaklıklar (FOTOĞRAFLI YAPI)
   - block: collection
     id: projects
     content:
@@ -113,17 +113,22 @@ sections:
 
         <hr style="border:0; border-top:1px solid #e3e3e3; margin:25px 0;">
 
+        <!-- PROJE ALANI FOTOĞRAFI -->
+        <div style="text-align: center; margin: 20px 0;">
+          <img src="projects-team.jpg" alt="SOHE LAB Research Team" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        </div>
+
         <p style="line-height: 1.6; margin-bottom: 15px;">
           To explore our active grants, other ongoing and completed research pipelines, please visit our dedicated projects portal.
           <br>
-          <em>Aktif fonlarımızı, devam eden ve tamamlanan diğer araştırma projelerimizi incelemek için lütfen projeler portalımızı ziyaret edin.</em>
+          <em>Aktif fonlarımızı, devam eden ve tamamlanan araştırma projelerimizi incelemek için lütfen projeler portalımızı ziyaret edin.</em>
         </p>
         
         <a href="projects/" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; margin-top: 5px;">Explore Projects / Projeleri İncele ➡️</a>
     design:
       columns: '1'
       view: card
-
+  
   # 6. BÖLÜM: SOHE Life / Labdan Kareler (Galeri)
   - block: collection
     id: news
