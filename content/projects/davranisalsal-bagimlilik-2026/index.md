@@ -1,12 +1,12 @@
 ---
 title: "🏆 Achievement: ICBA Presentation & Travel Grant"
-subtitle: "Başarı: ICBA Konferans Sunumu ve Seyahat Bursu Kabulü"
 summary: "SOHE LAB ekibinin davranışsal bağımlılık üzerine yürüttüğü boylamsal araştırma, 11. Uluslararası Davranışsal Bağımlılık Konferansı'ndan (ICBA) burslu sunum kabulü aldı."
 date: 2026-05-31
 featured: true
 image:
   filename: "featured.jpg"
 ---
+*Başarı: ICBA Konferans Sunumu ve Seyahat Bursu Kabulü*
 
 ### 🇹🇷 Başarı Duyurusu
 Laboratuvar direktörümüz <strong>Doç. Dr. Melike EĞER AYDOĞMUŞ</strong> yönetiminde, yüksek lisans öğrencimiz <strong>Cihangir ARKAÇ</strong> ve lisans mezunumuz <strong>Beyza Ekin NİGAR</strong>'ın katkılarıyla tamamlanan <em>\"The Cyclical Relationship Between Psychological Dispositions and Internet Addiction: A Two-Wave Study with Gender Moderation\"</em> başlıklı boylamsal araştırmamız, önemli bir başarıya imza atmıştır. 
