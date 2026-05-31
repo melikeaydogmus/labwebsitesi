@@ -116,7 +116,7 @@ sections:
         <p style="line-height: 1.6; margin-bottom: 15px;">
           To explore our active grants, other ongoing and completed research pipelines, please visit our dedicated projects portal.
           <br>
-          <em>Aktif fonlarımızı, devam eden ve tamamlanan araştırma projelerimizi incelemek için lütfen projeler portalımızı ziyaret edin.</em>
+          <em>Aktif fonlarımızı, devam eden ve tamamlanan diğer araştırma projelerimizi incelemek için lütfen projeler portalımızı ziyaret edin.</em>
         </p>
         
         <a href="projects/" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block; margin-top: 5px;">Explore Projects / Projeleri İncele ➡️</a>
