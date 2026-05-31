@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Perfectionism on Individual-vs. Group-Based Academic Success"
 authors:
-  - admin
+  - "Melike Eğer Aydoğmuş"
 date: "2025-01-01"
 publication_types: ["article-journal"]
 publication: "*Yükseköğretim Dergisi*, 15(3), 667-675"
