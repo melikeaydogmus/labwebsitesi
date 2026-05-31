@@ -1,4 +1,4 @@
 ---
-title: "Visit to Ankara Probation Directorate, October 2025/ Ankara Denetimli Serbestlik Müdürlüğü Ziyareti, Ekim 2025"
+title: "Visit to Ankara Probation Directorate / Ankara Denetimli Serbestlik Müdürlüğü Ziyareti"
 date: 2025-10-14   
 ---
