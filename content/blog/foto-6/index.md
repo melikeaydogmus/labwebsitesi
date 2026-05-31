@@ -1,6 +1,6 @@
 ---
-title: "🍕 End-of-Term Lab Meeting: Evaluation and Celebration - Jan 2020/ Dönem Sonu Lab Toplantısı: Değerlendirme ve Kutlama - Jan 2020"
-date: 2026-05-31
+title: "🍕 End-of-Term Lab Meeting: Evaluation and Celebration/ Dönem Sonu Lab Toplantısı: Değerlendirme ve Kutlama"
+date: 2020-01-324
 image:
   filename: "featured.jpg"
 ---
