@@ -1,6 +1,6 @@
 ---
-title: "Visit to Ankara Atatürk High School, April 2026 / Ankara Atatürk Lisesi Ziyareti, Nisan 2026"
-date: 2026-05-31
+title: "Visit to Ankara Atatürk High School / Ankara Atatürk Lisesi Ziyareti"
+date: 2026-05-06
 image:
   filename: "featured.jpg"
 ---
